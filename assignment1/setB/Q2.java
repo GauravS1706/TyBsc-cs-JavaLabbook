@@ -35,6 +35,10 @@
 package assignment1.setB;
 public class Q2 {
 
+    /**
+ * @author Gaurav Shimpi
+ * @version 1.0
+ */
     private int num;
 
     /**
