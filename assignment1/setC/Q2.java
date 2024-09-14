@@ -11,10 +11,7 @@
 package assignment1.setC;
 import java.util.Scanner;
 
-/**
- * @author Gaurav Shimpi
- * @version 1.0
- */
+
 public class Q2 {
 
     public static void main(String[] args) {
