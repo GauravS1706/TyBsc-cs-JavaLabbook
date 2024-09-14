@@ -1,4 +1,25 @@
+/*
+Set A
+	a) Using javap, view the methods of the following classes from the lang package: java.lang.Object , 
+	java.lang.String and java.util.Scanner. and also Compile sample program 8. Type the following command
+	and view the bytecodes. javap -c MyClass.
+	Compile the Program:
+	javac assignment1/setA/Q1.java
+	
+	Run the Program with Arguments:
+	java assignment1.setA.Q1 5
+	Output:
+	0
+	5
+	
+	Run the Program without Arguments:
+	java assignment1.setA.Q1
+	Output:
+	Insufficient arguments
+*/
+
 package assignment1.setA;
+
 
 public class Q1 {
 	int num;
