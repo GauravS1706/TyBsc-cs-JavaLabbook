@@ -1,5 +1,38 @@
-package assignment1.setB;
+/*
+    Set B:
+        b) Define a class MyNumber having one private int data member. Write a default constructor to initialize
+           it to 0 and another constructor to initialize it to a value (Use this). Write methods isNegative, isPositive, 
+           isZero, isOdd, isEven. Create an object in main. Use command line arguments to pass a value to the object
+           (Hint : convert string argument to integer) and perform the above tests. Provide javadoc comments for all constructors 
+           and methods and generate the html help file.
+          
+           Compile the Program:
+                javac assignment1/setA/MyNumber.java
+            
+           Generate Javadoc:
+                javadoc -d doc assignment1/setA/MyNumber.java
+                This command will generate the Javadoc HTML files in a directory named doc.
+           Running the Program
+           Compile the Program:
+                javac assignment1/setA/MyNumber.java
+            
+            Run the Program with Arguments:
+                java assignment1.setA.MyNumber 5
+                Example Output:
+                Number: 5
+                Is Negative: false
+                Is Positive: true
+                Is Zero: false
+                Is Odd: true
+                Is Even: false
+            
+            Run the Program without Arguments:
+                java assignment1.setA.MyNumber
+                Example Output:
+                Insufficient arguments
 
+*/
+package assignment1.setB;
 public class Q2 {
 
     private int num;
