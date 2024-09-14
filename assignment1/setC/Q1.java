@@ -1,5 +1,9 @@
-package assignment1.setC;
+/*
+    Set C:
+          a) Write a program to accept n names of country and display them in descending order.
 
+*/
+package assignment1.setC;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
