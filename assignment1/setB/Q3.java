@@ -1,5 +1,13 @@
-package assignment1.setB;
+/*
+    Set B:
+        c) Write a menu driven program to perform the following operations on multidimensional array ie matrix :
+            i. Addition
+            ii. Multiplication
+            iii. Transpose of any matrix.
+            iv. Exit
+*/
 
+package assignment1.setB;
 import java.util.Scanner;
 
 public class Q3 {
