@@ -1,5 +1,14 @@
-package assignment1.setC;
+/*
+    Set C:
+            b) Write a menu driven program to perform the following operations on 2D array:
+                i. Sum of diagonal elements
+                ii. Sum of upper diagonal element
+                iii. Sum of lower diagonal elements
+                iv. Exit
+*/
 
+
+package assignment1.setC;
 import java.util.Scanner;
 
 /**
